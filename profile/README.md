@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biohackathon.to?igsh=MXBnamt6YjQzeW81Zg%3D%3D&utm_source=qr)
 
-## 🎯 Registration opens August 1, 2024
+## 🎯 [Registration](https://docs.google.com/forms/d/1MI3AhW3gWRy_O0kGwENY2JBln29rJdlfvHPCE7p-ZcY/viewform?edit_requested=true) opens August 1, 2024
 
 The [Toronto Bioinformatics Hackathon](https://hackbio.ca) is a student-led computational biology hackathon, bringing together early career bioinformaticians, molecular biologists, statisticians, and computer scientists from Toronto’s Discovery District to complete interdisciplinary projects that emphasize computational and entrepreneurial thinking.
 
