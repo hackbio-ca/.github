@@ -1,5 +1,6 @@
 ## Welcome to [HackBio Canada](https://hackbio.ca)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/toronto-biohackathon/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biohackathon.to?igsh=MXBnamt6YjQzeW81Zg%3D%3D&utm_source=qr)
 
 ## 🎯 [Registration](https://docs.google.com/forms/d/1MI3AhW3gWRy_O0kGwENY2JBln29rJdlfvHPCE7p-ZcY/viewform?edit_requested=true) opens August 1, 2024
