@@ -22,8 +22,9 @@ In partnership with the [Terrence Donnelly Centre](https://thedonnellycentre.uto
     <source srcset="https://hackbio.ca/img/logos-github/darkmode/mogen.png" media="(prefers-color-scheme: dark)">
     <img src="https://hackbio.ca/img/logos-github/lightmode/mogen.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
     <source srcset="https://hackbio.ca/img/logos-github/darkmode/dg.png" media="(prefers-color-scheme: dark)">
     <img src="https://hackbio.ca/img/logos-github/lightmode/dg.png" height="50px" style="display: inline-block; vertical-align: middle;">
