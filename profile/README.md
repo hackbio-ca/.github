@@ -16,8 +16,8 @@ In partnership with [Deep Genomics](https://www.deepgenomics.com/), the [Terrenc
     <source srcset="https://hackbio.ca/img/logos-github/darkmode/ccbr.png" media="(prefers-color-scheme: dark)">
     <img src="https://hackbio.ca/img/logos-github/lightmode/ccbr.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the images -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <source srcset="https://hackbio.ca/img/logos-github/darkmode/mogen.png" media="(prefers-color-scheme: dark)">
     <img src="https://hackbio.ca/img/logos-github/lightmode/mogen.png" height="50px" style="display: inline-block; vertical-align: middle;">
