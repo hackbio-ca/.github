@@ -7,7 +7,7 @@
 
 The Toronto Bioinformatics Hackathon is a student-led computational biology hackathon, bringing together early career bioinformaticians, molecular biologists, statisticians, and computer scientists from Toronto’s Discovery District to complete interdisciplinary projects that emphasize computational and entrepreneurial thinking.
 
-In partnership with Deep Genomics (https://www.deepgenomics.com/), the [Terrence Donnelly Centre](https://thedonnellycentre.utoronto.ca/) and the Temerty Faculty of Medicine's [Computational Biology in Molecular Genetics](https://moleculargenetics.utoronto.ca/cbmg) program, our participants will collaborate to propose innovative solutions to key challenges in computational biology with commercialization potential.
+In partnership with [Deep Genomics](https://www.deepgenomics.com/), the [Terrence Donnelly Centre](https://thedonnellycentre.utoronto.ca/) and the Temerty Faculty of Medicine's [Computational Biology in Molecular Genetics](https://moleculargenetics.utoronto.ca/cbmg) program, our participants will collaborate to propose innovative solutions to key challenges in computational biology with commercialization potential.
 
 ## Our Deepest Gratitude to Our Sponsors
 
