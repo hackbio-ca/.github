@@ -1,2 +1,2 @@
 # .github
-HackBio GitHub README
+Toronto Bioinformatics Hackathon
