@@ -17,48 +17,72 @@ We’re excited to welcome a new cohort of participants to the 2025 Toronto Bioi
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/ccbr.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/ccbr.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/uoft_ccbr.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/uoft_ccbr.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/mogen.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/mogen.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/uoft_mogen.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/uoft_mogen.png" height="50px" style="display: inline-block; vertical-align: middle;">
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/dg.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/dg.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
 </p>
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/dg.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/dg.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/csb.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/csb.png" height="50px" style="display: inline-block; vertical-align: middle;">
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/uoft_bch.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/uoft_bch.png" height="50px" style="display: inline-block; vertical-align: middle;">
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/aws.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/aws.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
 </p>
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/csb.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/csb.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/cagef.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/cagef.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/da-horizontal.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/da-horizontal.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/cbh.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/cbh.png" height="50px" style="display: inline-block; vertical-align: middle;">
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/mc.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/mc.png" height="50px" style="display: inline-block; vertical-align: middle;">
+  </picture>
+</p>
+
+<h3 align="center">Previously supported by</h3>
+
+<p align="center" style="text-align: center; white-space: nowrap;">
+  <picture>
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/past/da-horizontal.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/past/da-horizontal.png" height="44px" style="display: inline-block; vertical-align: middle;">
   </picture>
 </p>
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/wolfram.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/wolfram.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/past/wolfram.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/past/wolfram.png" height="42px" style="display: inline-block; vertical-align: middle;">
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/bioinformatics.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/bioinformatics.png" height="50px" style="display: inline-block; vertical-align: middle;">
-  </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/gbb.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/gbb.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/past/bioinformatics.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/past/bioinformatics.png" height="42px" style="display: inline-block; vertical-align: middle;">
   </picture>
 </p>
