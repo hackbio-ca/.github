@@ -66,7 +66,7 @@ We’re excited to welcome a new cohort of participants to the 2025 Toronto Bioi
   </picture>
 </p>
 
-<h3 align="center">Previously supported by</h3>
+<h3 align="center">Previously Supported By</h3>
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
