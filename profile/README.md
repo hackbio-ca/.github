@@ -17,8 +17,8 @@ We’re excited to welcome a new cohort of participants to the 2025 Toronto Bioi
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/csb.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/present/csb.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/uoft_ccbr.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/uoft_ccbr.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
@@ -34,8 +34,8 @@ We’re excited to welcome a new cohort of participants to the 2025 Toronto Bioi
 
 <p align="center" style="text-align: center; white-space: nowrap;">
   <picture>
-    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/uoft_ccbr.png" media="(prefers-color-scheme: dark)">
-    <img src="https://hackbio.ca/img/logos-github/lightmode/present/uoft_ccbr.png" height="50px" style="display: inline-block; vertical-align: middle;">
+    <source srcset="https://hackbio.ca/img/logos-github/darkmode/present/csb.png" media="(prefers-color-scheme: dark)">
+    <img src="https://hackbio.ca/img/logos-github/lightmode/present/csb.png" height="50px" style="display: inline-block; vertical-align: middle;">
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
