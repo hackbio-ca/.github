@@ -9,9 +9,11 @@ The Toronto Bioinformatics Hackathon is a student-led computational biology hack
 
 In partnership with [Deep Genomics](https://www.deepgenomics.com/), the [Terrence Donnelly Centre](https://thedonnellycentre.utoronto.ca/) and the Temerty Faculty of Medicine's [Computational Biology in Molecular Genetics](https://moleculargenetics.utoronto.ca/cbmg) program, participants will collaborate to develop innovative solutions to key challenges in computational biology, with commercialization potential.
 
-## ✨ Looking Ahead to Our Upcoming Hackathon
+## 🎉 Celebrating a Successful Hackathon
 
-We’re excited to welcome a new cohort of participants to the 2025 Toronto Bioinformatics Hackathon! Stay tuned for updates as we prepare another weekend of collaboration, innovation, and discovery in computational biology.
+The **2025 Toronto Bioinformatics Hackathon** has officially concluded! Over three exciting days, participants came together to build cutting-edge solutions and explore new ideas in computational biology. We witnessed an **incredible display** of **talent, teamwork,** and **creativity** from all involved. A heartfelt **thank you** to everyone who participated, mentored, or supported the event in any way.
+
+We're already looking forward to **next year’s hackathon** and hope to see you there!
 
 ## Our Deepest Gratitude to Our Sponsors
 
